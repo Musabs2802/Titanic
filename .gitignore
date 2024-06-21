@@ -1,0 +1,4 @@
+venv
+logs.log
+*/logs.log
+*/.ipynb_checkpoints
