@@ -3,7 +3,6 @@ import joblib
 import pickle
 from sklearn.metrics import accuracy_score, confusion_matrix
 import plotly.express as px
-import statsmodels.api as sm
 from PIL import Image
 
 
