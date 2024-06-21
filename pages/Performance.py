@@ -1,10 +1,7 @@
 import streamlit as st
 import joblib
 import pickle
-import numpy as np
-import pandas as pd
 from sklearn.metrics import accuracy_score, confusion_matrix
-import seaborn as sns
 import plotly.express as px
 import statsmodels.api as sm
 from PIL import Image
